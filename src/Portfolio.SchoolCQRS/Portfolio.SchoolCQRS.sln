@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Portfolio.SchoolCQRS", "Portfolio.SchoolCQRS.csproj", "{647FC9BF-7D55-458E-AE92-E98C527F4668}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Services", "1 - Services", "{8AF73B01-8862-4E14-AFC6-46F6ED89887C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Application", "2 - Application", "{FB475AAA-2F89-43CD-A43C-24A239D38B3A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Domain", "3 - Domain", "{E28E1AD7-628E-4E41-A048-F2AEEEFDF6FE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Infra", "4 - Infra", "{D5F40E84-C092-43C4-9BB0-2A86E94064A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{647FC9BF-7D55-458E-AE92-E98C527F4668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{647FC9BF-7D55-458E-AE92-E98C527F4668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{647FC9BF-7D55-458E-AE92-E98C527F4668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{647FC9BF-7D55-458E-AE92-E98C527F4668}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{647FC9BF-7D55-458E-AE92-E98C527F4668} = {8AF73B01-8862-4E14-AFC6-46F6ED89887C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71EEABE9-2339-4D1E-AEC9-451E8BAC1766}
+	EndGlobalSection
+EndGlobal
